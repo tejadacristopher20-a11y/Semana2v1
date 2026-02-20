@@ -2,12 +2,12 @@ Algoritmo Sucesion_Fibonacci
 	
 	Definir NumeroFinal, NumeroAnterior, NumeroActual, Siguiente, contador Como Entero
 	
-	Escribir "¿Cuantos numeros de Fibonacci desea ver?"
+	Escribir "Â¿Cuantos numeros de Fibonacci desea ver?"
 	Leer NumeroFinal
 	
 	NumeroAnterior = 0
 	NumeroActual = 1
-	contador = 1
+	contador = 0
 	
 	Mientras contador <= NumeroFinal Hacer
 		
