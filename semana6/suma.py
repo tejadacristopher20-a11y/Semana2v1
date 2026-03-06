@@ -1,7 +1,7 @@
 # Es un comentario
 
 ## Para declarar una variable
-Nombre = "Cris"
+Nombre = "Cristopher"
 print(Nombre)
 edad = 18
 print(Nombre, edad, " years")  ## Concatenar
