@@ -1,4 +1,4 @@
-Funcion respuesta <- validar ( usuario, pass )
+Funcion respuesta <- validar (usuario, pass)
 	respuesta = Falso
 	Escribir "validar usuario"
 	
@@ -67,13 +67,12 @@ Algoritmo bucleFor
 	// mas de una o ninguna. 
 	// carateristicas  -> el carro es rojo 
 	//                    nosotros somos feos 
-	// 						edad 				32
+	// 						edad: 32
 	// 						boolean             Verdad o Falso
 	//						objeto :  un objeto es aquella entidad
 	//                      en progrmacion que modela en base a las clases 
 	//                      las caracteristicas de un objeto de la vida real
 	
 	
-	
-	
+
 FinAlgoritmo
