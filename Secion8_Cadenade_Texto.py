@@ -98,4 +98,14 @@ mensaje = "hOLA KACe progRMando o qUe HaCe"
 # Capitalize a que la primera letra de cada palabra sea mayuscula
 
 mensajeCorrecto = mensaje.capitalize()
-print(mensajeCorrecto)
+# print(mensajeCorrecto)
+
+# Las flipantes aventurars de el gato con bolson magico y Alfredo
+Titulo = "Las flipantes aventurars de el garto con bolson magico y Alfredo"
+# Las aventuras de Doraimos y Alfredo
+TituloCorrecto = Titulo.title()
+# print(TituloCorrecto)
+
+# swapCase() permite caqmbiar entre mayusculas y minusculas
+swapCaseTitulo = TituloCorrecto.swapcase()
+print(swapCaseTitulo)
