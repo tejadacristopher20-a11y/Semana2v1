@@ -114,3 +114,20 @@ Nombre = "Cristopher"
 Nombre2 = "David"
 Comparar = Nombre.casefold() == Nombre2.casefold()
 print(Comparar)
+
+# metodos de validacion
+# false numeros o espacio
+# true tiene solo letras
+
+numero = "512"
+Solo_Letras = "El chico del apartamento "
+Coro = "piribiribanban"
+
+quieroSoloLetras = numero.isalpha()
+print(quieroSoloLetras)
+
+## numeros y letras
+print("numeros y letras")
+numeros_letras = nombre + numero
+evaluarTexto = numeros_letras.isalnum()
+print(evaluarTexto)
